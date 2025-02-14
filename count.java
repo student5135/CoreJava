@@ -1,6 +1,6 @@
 class count
 {
-	public static void Count(int num)
+	public static void main(String[] args)
 	{
 		int count=0;
 		while(num>0)
@@ -10,8 +10,6 @@ class count
 		}
 		System.out.println(count);
 	}
-	public static void main(String[] args)
-	{
-		Count(1234);
-	}
+	
+	
 }
