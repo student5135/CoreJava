@@ -13,7 +13,8 @@ class factorial
 
 				res=res*i;
 			
-		}
+		
+			}
 		  num=num/10;
 			System.out.println(res);
 		}
